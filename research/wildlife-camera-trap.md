@@ -19,7 +19,7 @@ mechanical enclosure, and the transition from prototype to a fabricated PCB.
 The board is a team effort across nine modules (power, MCU power, MCU I/O,
 camera, PIR, IR flash, temperature, PSRAM, LoRa)
 
-## What I own
+## Methods
 
 ### IR flash driver hardware
 
