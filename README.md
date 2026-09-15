@@ -20,7 +20,7 @@ paired with software I wrote to make it do something useful.
 
 ## Projects
 
-| Project | One line | Result | Stack |
+| Project | Desc | Result | Skills |
 |---|---|---|---|
 | [**ShadowHive**](projects/shadowhive.md)<br><sub>2026</sub> | Covert mapping, positioning, and silent communication in unknown environments | 88.6% streaming word accuracy on a locked set; ~12 fps live room mapping | ARKit, UWB, TensorFlow, Edge AI, C |
 | [**Custom MP3 Player**](projects/custom-mp3.md)<br><sub>2026</sub> | A portable music player designed from a blank schematic to a finished board | 4-layer PCB, full firmware + UI | ESP32-S3, KiCad, I²S, I²C |
