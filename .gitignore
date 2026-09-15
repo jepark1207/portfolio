@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*~
+
+# KiCad transient / backup files, if hardware sources are added later
+*.kicad_prl
+*-backups/
+*.lck
+~*.lck
+fp-info-cache
