@@ -13,7 +13,7 @@ paired with software I wrote to make it do something useful.
 
 ## Research
 
-| Project | What I own | Stack |
+| Project | Methods | Skills |
 |---|---|---|
 | [**Wildlife Camera Trap**](research/wildlife-camera-trap.md)<br><sub>Stanford Smart Sensing Systems Lab · 2026</sub> | IR flash driver hardware, embedded capture software, custom PCB, field deployment | Raspberry Pi, Python, KiCad, VL53L0X, systemd |
 | [**Mars Polar Rover — Power Team**](research/mars-polar-rover.md)<br><sub>Stanford Space Initiative · 2026</sub> | Power management unit PCB, MPPT solar tracking, thermal sensing, LiDAR prototype | KiCad, MPPT, thermistors, Jetson Nano, LiDAR |
