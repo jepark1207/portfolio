@@ -17,7 +17,7 @@ reliability the actual engineering problem — not image quality.
 I work on the IR illumination hardware, the embedded capture software, the
 mechanical enclosure, and the transition from prototype to a fabricated PCB.
 The board is a team effort across nine modules (power, MCU power, MCU I/O,
-camera, PIR, IR flash, temperature, PSRAM, LoRa); **IR flash is mine.**
+camera, PIR, IR flash, temperature, PSRAM, LoRa)
 
 ## What I own
 
