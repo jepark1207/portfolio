@@ -18,7 +18,7 @@ for Stanford University research.
 
 I'm on the **Power Team**, where I designed a power management unit PCB.
 
-## What I own
+## Methods
 
 ### Power management unit PCB
 
